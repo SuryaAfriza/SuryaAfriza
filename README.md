@@ -1,7 +1,10 @@
-- 👋  I’m currently a student at UPN Veteran Jatim
+
+<h2>About me: </h2>
+
+- 👨‍💻 I’m currently a student at UPN Veteran Jatim
 - 👀 I’m interested in Fullstack Developer
 - 🌱 I’m currently learning HTML and BOOTSTRAP
-- 💞️ I’m looking to collaborate as Web and Mobile Developer
+- 🤝 I’m looking to collaborate as Web and Mobile Developer
 - 📫 How to reach me: suryaafriza19@gmail.com 
 
 <!---
